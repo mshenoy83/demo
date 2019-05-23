@@ -1,36 +1,36 @@
 {
   "posts": [
 {
-stateName: "ACT",
-id: 1
+ "stateName": "ACT",
+ "id":1
 },
 {
-stateName: "NSW",
-id: 2
+ "stateName": "NSW",
+ "id":2
 },
 {
-stateName: "QLD",
-id: 3
+ "stateName": "QLD",
+ "id":3
 },
 {
-stateName: "TAS",
-id: 4
+ "stateName": "TAS",
+ "id":4
 },
 {
-stateName: "VIC",
-id: 5
+ "stateName": "VIC",
+ "id":5
 },
 {
-stateName: "WA",
-id: 6
+ "stateName": "WA",
+ "id":6
 },
 {
-stateName: "NT",
-id: 7
+ "stateName": "NT",
+ "id":7
 },
 {
-stateName: "SA",
-id: 8
+ "stateName": "SA",
+ "id":8
 }
 ],
   "comments": [
