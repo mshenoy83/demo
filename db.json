@@ -1,35 +1,35 @@
 {
   "posts": [
     {
-      "stateName": "ACT",
+      "name": "ACT",
       "id": 1
     },
     {
-      "stateName": "NSW",
+      "name": "NSW",
       "id": 2
     },
     {
-      "stateName": "QLD",
+      "name": "QLD",
       "id": 3
     },
     {
-      "stateName": "TAS",
+      "name": "TAS",
       "id": 4
     },
     {
-      "stateName": "VIC",
+      "name": "VIC",
       "id": 5
     },
     {
-      "stateName": "WA",
+      "name": "WA",
       "id": 6
     },
     {
-      "stateName": "NT",
+      "name": "NT",
       "id": 7
     },
     {
-      "stateName": "SA",
+      "name": "SA",
       "id": 8
     }
   ],
