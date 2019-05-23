@@ -1,9 +1,38 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+{
+stateName: "ACT",
+id: 1
+},
+{
+stateName: "NSW",
+id: 2
+},
+{
+stateName: "QLD",
+id: 3
+},
+{
+stateName: "TAS",
+id: 4
+},
+{
+stateName: "VIC",
+id: 5
+},
+{
+stateName: "WA",
+id: 6
+},
+{
+stateName: "NT",
+id: 7
+},
+{
+stateName: "SA",
+id: 8
+}
+],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
