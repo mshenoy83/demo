@@ -1,36 +1,28 @@
 {
   "posts": [
     {
-      "name": "ACT",
-      "id": 1
+      "name": "ACT",     
     },
     {
-      "name": "NSW",
-      "id": 2
+      "name": "NSW",      
     },
     {
-      "name": "QLD",
-      "id": 3
+      "name": "QLD",     
     },
     {
-      "name": "TAS",
-      "id": 4
+      "name": "TAS",      
     },
     {
-      "name": "VIC",
-      "id": 5
+      "name": "VIC",      
     },
     {
-      "name": "WA",
-      "id": 6
+      "name": "WA",      
     },
     {
-      "name": "NT",
-      "id": 7
+      "name": "NT",     
     },
     {
-      "name": "SA",
-      "id": 8
+      "name": "SA",      
     }
   ],
   "comments": [
